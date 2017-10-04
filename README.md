@@ -1,4 +1,4 @@
-![cf](https://i.imgur.com/7v5ASc8.png) 28: Redux Middleware
+![DV](https://www.deltavcodeschool.com/wp-content/uploads/DeltaV.png) 28: Redux Middleware
 ======
 
 ## Submission Instructions
@@ -22,7 +22,11 @@
 * `src/style`
 * `src/style/main.scss`
 
-## Requirements  
+Your package.json must include scripts for:
+
+* `lint`
+* `test`
+
 #### Feature Tasks
 * complete all remaining lab 26 and 27 feature tasks
 * add a reporter middleware to your application's redux store
